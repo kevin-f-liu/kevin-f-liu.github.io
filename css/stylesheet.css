@@ -6,5 +6,44 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-position: center 50px;
 }
+
+/* Fonts */
+@font-face {
+	font-family: "Slim Joe";
+	src:
+		local("Slim Joe")
+		local("Slim-Joe")
+		url(../fonts/Slim%20Joe.ttf)
+		format("truetype");
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+	font-family:"Slim Joe";
+	color:#FFFFFF;
+	letter-spacing:5px;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+/* Content */
+.page {
+	display:table;	
+	height:100vh;
+}
+
+.row-vertical-middle {
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.text {
+	margin-top: 30vh;
+}
+
+.loader {
+		margin:auto;
+}
+
+/* Animations */
