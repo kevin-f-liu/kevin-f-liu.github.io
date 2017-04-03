@@ -33,22 +33,30 @@ h1 {
 }
 
 /* Content */
-.page {
-	display:table;	
-	height:100vh;
-}
-
-.row-vertical-middle {
-	display:table-cell;
-	vertical-align:middle;
-}
-
 .text {
-	margin-top: 30vh;
+	margin-top: 40vh;
 }
 
 .loader {
 	margin:auto;
+}
+
+.footer {
+	display:table-cell;
+	margin-top:10vh;
+}
+
+.progress {
+	background: rgba(143, 143, 143, 1); 
+	border: 0px solid rgba(255, 13, 13, 1); 
+	border-radius: 25px; 
+	height: 10px;
+}
+
+.progress-bar-custom {
+	background: rgba(255, 145, 82, 1); 
+	background: -webkit-linear-gradient(top, rgba(201, 196, 65, 1) 0%, rgba(255, 145, 82, 1) 100%); 
+	background: linear-gradient(to bottom, rgba(201, 196, 65, 1) 0%, rgba(255, 145, 82, 1) 100%);
 }
 
 /* Animations */
