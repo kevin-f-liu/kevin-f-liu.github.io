@@ -1,0 +1,29 @@
+/* CSS Document */
+
+/* Global */
+h1, h2, h3, h4, h5, h6 {
+	font-family:"Lato", sans-serif;
+	color:#FFFFFF;
+	letter-spacing:8px;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+/* Home */
+
+.content #name-break {
+	width:85%;
+}
+
+.content #name {
+	font-size:60px;
+	font-weight:300;
+}
+
+#head-title {
+	font-family:"Lato", sans-serif;
+	font-weight:300;
+	font-size:30px;
+}
+
+
