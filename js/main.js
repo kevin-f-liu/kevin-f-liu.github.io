@@ -1,6 +1,6 @@
 // Hello.
 //
-// This is The Scripts used for ___________ Theme
+// This is The Scripts used for a Theme
 //
 //
 
