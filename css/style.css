@@ -61,7 +61,7 @@ a:focus{
 	text-decoration: none;
 }
 #home{
-	background: url(../img/bg1.jpg);
+	background: url(../img/bg1.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -209,7 +209,7 @@ background-color: transparent;
 	margin-top: 200px;
 }
 
-#meet-us,
+#about-me,
 #services,
 #works,
 #about-us{
