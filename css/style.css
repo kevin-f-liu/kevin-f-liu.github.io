@@ -277,7 +277,7 @@ a.down-btn span.fa.fa-angle-down {
 }
 .space{ padding-top: 40px; }
 
-#home > .space{ padding-top: 15%;}
+#home .space{ padding-top: 15%;}
 
 #cta{
 	background: #282f35;
