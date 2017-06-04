@@ -32,15 +32,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* About Me */
-#profile-crop{
-	height:55vh;
-	width:55vh;
+#profile-crop {
+	height:200px;
+	width:200px;
 	border-radius:100%;
 	overflow:hidden;
-	margin-left:auto;
-	margin-top:auto;
+	margin: 10px auto;
 }
 
-#profile-img{
-	height:100vh;
+#profile-img {
+	height:190%;
+}
+
+.contact-header {
+	color: #000000;
+	font-weight:bold;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.contact-header > span {
+	font-weight:normal;	
+	float:right;
+}
+
+.contact-header > a {
+	font-weight:normal;	
+	float:right;
 }
