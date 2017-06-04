@@ -68,7 +68,7 @@ a:focus{
 	background-attachment: fixed;
 	height: 100vh;
 	min-height: 710px;	
-	padding-top: 60px;
+	padding-top: 10%;
 	color: #ffffff;
 }
 #home a.down-btn span.fa.fa-angle-down {
