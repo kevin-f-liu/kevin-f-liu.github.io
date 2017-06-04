@@ -2760,7 +2760,7 @@ select[multiple].form-group-lg .form-control {
   vertical-align: middle;
   -ms-touch-action: manipulation;
       touch-action: manipulation;
-  cursor: pointer;
+  cursor: initial;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;

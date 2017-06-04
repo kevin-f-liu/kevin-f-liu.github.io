@@ -9,6 +9,11 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform:uppercase;
 }
 
+.row-equal{
+	display:flex;
+	flex-direction:row;
+}
+
 /* Home */
 
 .content #name-break {
@@ -26,4 +31,16 @@ h1, h2, h3, h4, h5, h6 {
 	font-size:30px;
 }
 
+/* About Me */
+#profile-crop{
+	height:55vh;
+	width:55vh;
+	border-radius:100%;
+	overflow:hidden;
+	margin-left:auto;
+	margin-top:auto;
+}
 
+#profile-img{
+	height:100vh;
+}
