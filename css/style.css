@@ -68,7 +68,7 @@ a:focus{
 	background-attachment: fixed;
 	height: 100vh;
 	min-height: 710px;	
-	padding-top: 10%;
+	padding-top: 60px;
 	color: #ffffff;
 }
 #home a.down-btn span.fa.fa-angle-down {
@@ -276,6 +276,8 @@ a.down-btn span.fa.fa-angle-down {
 	font-family: 'Lato', sans-serif;
 }
 .space{ padding-top: 40px; }
+
+#home > .space{ padding-top: 15%;}
 
 #cta{
 	background: #282f35;
